@@ -1,27 +1,124 @@
 # SlideDeckGenerator
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.11.
+This project was generated with **Angular CLI version 13.3.11**.
 
-## Development server
+---
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Overview
 
-## Code scaffolding
+As students frequently tasked with creating presentations, we recognize the challenges and time constraints involved in developing informative slides on diverse themes. Additionally, understanding that individuals with learning disabilities may face even greater difficulties, our group was motivated to develop an easy-to-use program to assist everyone in efficiently creating impactful presentations.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+---
 
-## Build
+## Features
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- **Dynamic Slide Creation**: Enter a theme and generate slides based on cutting-edge AI technology.
+- **Download Functionality**: Option to download the generated slides directly (in progress 🚧🔨).
+- **Responsive Design**: Optimized for various devices using CSS.
+- **User-Friendly**: Simple and intuitive interface for all users.
 
-## Running unit tests
+---
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Demo
 
-## Running end-to-end tests
+Explore the live demo of SlideDeckGenerator: [SlideDeckGenerator Live Demo](https://youtu.be/f6iFcXzoW8s)
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+---
 
-## Further help
+## Components
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+- **Home Page**: First interaction point.
+- **Landing Page**: Core functionality where users input themes and trigger slide generation using OpenAI API.
+- **Login/Sign Up Pages**: User authentication and account management.
+
+---
+
+## Built With
+
+- **Frontend**: Angular Framework with TypeScript and JavaScript
+- **Backend**: Express.js and Node.js
+- **API**: OpenAI GPT-4
+- **Version Control**: Git
+
+---
+
+## Getting Started
+
+### Prerequisites
+
+Ensure you have **Node.js** and **npm** installed.
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://your-repository-link
+   ```
+
+2. Navigate to the project directory:
+   ```bash
+   cd slide-deck-generator
+   ```
+
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+4. Run the development server:
+   ```bash
+   ng serve
+   ```
+
+The application should now be running on `http://localhost:4200/`.
+
+---
+
+## Usage
+
+### Generating Slides
+
+1. Input your desired topic into the theme field.
+2. Click **Generate** to create slides instantly.
+3. View the results and (soon) download them directly.
+
+### Customization
+
+- Use the **responsive design** to interact seamlessly across devices.
+- Log in or sign up for a personalized experience.
+
+---
+
+## Challenges We Faced
+
+1. Understanding the basic structure of artificial intelligence and API integration.
+2. Securing the OpenAI API key.
+3. Scheduling meetings to accommodate everyone’s availability.
+4. Displaying generated text on-screen rather than in the console.
+5. Developing a feature for generating downloadable slides (ongoing).
+
+---
+
+## What We Learned
+
+- Basics of machine learning and AI.
+- API integration and response handling.
+- Setting up Express servers and creating API endpoints.
+- Developing responsive UI and full-stack applications.
+- Using environment variables for secure API key management.
+
+---
+
+## Future Enhancements
+
+- **Download Feature**: Enable users to download slides directly.
+- **Refined User Interface**: Update to a modern, sleek design.
+- **Security Updates**: Implement encryption for user data.
+- **Specialized GPTs**: Utilize GPT's capability for creating specialized slide generation models.
+
+---
+
+## Support
+
+If you encounter any problems or have inquiries, please file an **issue**, and we’ll be happy to assist.
+
