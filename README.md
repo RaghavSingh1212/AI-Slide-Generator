@@ -21,7 +21,7 @@ As students frequently tasked with creating presentations, we recognize the chal
 
 ## Demo
 
-Explore the live demo of SlideDeckGenerator: [SlideDeckGenerator Live Demo](https://youtu.be/f6iFcXzoW8s)
+Explore the live demo of SlideDeckGenerator: [SlideDeckGenerator Live Demo](https://your-demo-link.com)
 
 ---
 
@@ -96,6 +96,15 @@ The application should now be running on `http://localhost:4200/`.
 3. Scheduling meetings to accommodate everyone’s availability.
 4. Displaying generated text on-screen rather than in the console.
 5. Developing a feature for generating downloadable slides (ongoing).
+
+---
+
+## Accomplishments
+
+- **Beautiful Figma Design**: [Slide Sage Design](https://www.figma.com/design/3JlejQDNdpecu2obxX1LYR/Slide-Sage?node-id=0-1&t=x0f9EZSGawFgnVd2-1)
+- **Full-Stack Application**: [GitHub Repository](https://github.com/mori1221/Gen-AI.git)
+- **Presentation Video**: [Watch on YouTube](https://youtu.be/f6iFcXzoW8s)
+- **Presentation Slides**: [Google Slides Link](https://docs.google.com/presentation/d/1QHFLGQJQjZJgJsMxbEAj3I3etU4YYSlxAIfOOB-WBMo/edit?usp=sharing)
 
 ---
 
