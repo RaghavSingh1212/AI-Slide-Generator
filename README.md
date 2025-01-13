@@ -21,7 +21,7 @@ As students frequently tasked with creating presentations, we recognize the chal
 
 ## Demo
 
-Explore the live demo of SlideDeckGenerator: [SlideDeckGenerator Live Demo](https://your-demo-link.com)
+Explore the live demo of SlideDeckGenerator: [SlideDeckGenerator Live Demo](https://youtu.be/f6iFcXzoW8s)
 
 ---
 
