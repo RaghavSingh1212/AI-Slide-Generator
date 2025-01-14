@@ -102,7 +102,6 @@ The application should now be running on `http://localhost:4200/`.
 ## Accomplishments
 
 - **Beautiful Figma Design**: [Slide Sage Design](https://www.figma.com/design/3JlejQDNdpecu2obxX1LYR/Slide-Sage?node-id=0-1&t=x0f9EZSGawFgnVd2-1)
-- **Full-Stack Application**: [GitHub Repository](https://github.com/mori1221/Gen-AI.git)
 - **Presentation Video**: [Watch on YouTube](https://youtu.be/f6iFcXzoW8s)
 - **Presentation Slides**: [Google Slides Link](https://docs.google.com/presentation/d/1QHFLGQJQjZJgJsMxbEAj3I3etU4YYSlxAIfOOB-WBMo/edit?usp=sharing)
 
